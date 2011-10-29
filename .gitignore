@@ -1,8 +1,5 @@
-fr/
-ru/
-el/
-es/
-.svn/
+*/
+!zh/
 *.iml
 *.ipr
 *.iws
