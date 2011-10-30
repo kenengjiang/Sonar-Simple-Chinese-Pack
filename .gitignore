@@ -1,5 +1,6 @@
 */
 !zh/
+!.gitignore
 *.iml
 *.ipr
 *.iws
